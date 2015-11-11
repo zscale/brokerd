@@ -30,7 +30,6 @@
 #include "brokerd/RemoteFeedReader.h"
 #include "stx/stats/statsdagent.h"
 #include "sstable/sstablereader.h"
-#include "stx/mdb/MDB.h"
 #include "CustomerNamespace.h"
 #include "zbase/logjoin/LogJoin.h"
 
